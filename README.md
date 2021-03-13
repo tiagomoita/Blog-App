@@ -3,6 +3,9 @@ Small blog application with React Native to demonstrate CRUD functions using jso
 
 
 ## Layout mobile
+<img src="https://github.com/tiagomoita/Blog-App/blob/main/assets/File_000.png" width="300" height="548" /> <img src="https://github.com/tiagomoita/Blog-App/blob/main/assets/File_001.png" width="300" height="548" />
+<img src="https://github.com/tiagomoita/Blog-App/blob/main/assets/File_002.png" width="300" height="548" />
+
 
 # Technologies
 ## Front end
