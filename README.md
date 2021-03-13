@@ -4,13 +4,6 @@ Small blog application with React Native to demonstrate CRUD functions using jso
 
 ## Layout mobile
 
-<img src="https://github.com/tiagomoita/Track-App/blob/main/assets/File_000.png" width="300" height="548" /> <img src="https://github.com/tiagomoita/Track-App/blob/main/assets/File_001.png" width="300" height="548" />
-<img src="https://github.com/tiagomoita/Track-App/blob/main/assets/File_002.png" width="300" height="548" />
-<img src="https://github.com/tiagomoita/Track-App/blob/main/assets/File_003.png" width="300" height="548" />
-<img src="https://github.com/tiagomoita/Track-App/blob/main/assets/File_004.png" width="300" height="548" />
-<img src="https://github.com/tiagomoita/Track-App/blob/main/assets/File_005.png" width="300" height="548" />
-<img src="https://github.com/tiagomoita/Track-App/blob/main/assets/File_006.png" width="300" height="548" />
-
 # Technologies
 ## Front end
 - React Native (ContextAPI, Hooks)
